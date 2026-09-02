@@ -1,0 +1,5 @@
+interface:
+  display_name: "Skill卡带·每日发行"
+  short_description: "按日期完成可直接发布的小红书 Skill 卡带图文套装"
+  brand_color: "#B9FF4F"
+  default_prompt: "Use $skill-cartridge-daily to research and create today's dated Xiaohongshu Skill卡带 post package."
