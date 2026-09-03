@@ -86,6 +86,8 @@ Read [references/output-contract.md](references/output-contract.md) before packa
 
 Public images and `小红书文案.md` must never contain process labels such as “已核验”, “未跑通”, “V2”, “S3”, “AI 生成”, “非运行截图”, model/API errors, QA notes, or test failures. Keep those details in `sources.md` only.
 
+Treat the user's writing directions and the production method as backstage instructions, not publishable copy. Never tell readers that the copy is “人话”, “像人写的”, “不 AI”, “AI 生成”, or “机器输出”, and do not narrate prompting, rewriting, or model use. Avoid editorial-workflow labels such as “回源”, “核验”, or “翻译成人话” on public pages. Show the concrete reader-facing action instead: where the item was found, what the maintainer says, what the reader can try, and what source link is available.
+
 The delivery directory contains only:
 
 - numbered final PNGs;
