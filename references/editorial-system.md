@@ -60,6 +60,18 @@ Do not claim hands-on testing unless it actually happened in the named environme
 
 The reader is tired and scrolling for relief. Make the post feel like finding a clever toy, not receiving homework.
 
+Start from a recognisable moment, annoyance, impulse, or tiny surprise rather than introducing the product. Let the feature appear naturally after the scene. Vary the shape of neighbouring posts: one may read like a confession, another like a quick discovery, and another like a short story about a result. Do not reuse a fixed hook → feature summary → three steps → “who it suits” → engagement-question template.
+
+Before publishing, perform a spoken-language pass:
+
+- read the copy aloud and rewrite any sentence that sounds like a presenter, product page, or generated summary;
+- remove throat-clearing such as “最近发现一个”, “今天给大家分享”, and “这是一个可以……”;
+- avoid formula pairs such as “最好玩的不是……而是……”, “不仅……还……”, and “适合……的人” unless that exact contrast is genuinely how a person would say it;
+- prefer an observed detail over praise, and a small reaction over a conclusion;
+- allow short fragments, uneven paragraph lengths, and one restrained aside when they make the voice feel natural;
+- keep only the technical detail needed to try the play; move catalog-style facts to the release card;
+- never invent slang, emotion, personal use, or first-person experience. First person is allowed only for actions actually performed in this issue.
+
 ### Write from a moment, not a summary
 
 Open on something the reader can picture: a half-written brief, twelve unnamed screenshots, a folder called “final-final-2”, or the moment an AI answers the wrong question very confidently. Then show what the Skill does to that exact thing. Do not lead with a definition, market category, or “今天给大家推荐”.
@@ -118,6 +130,7 @@ Avoid:
 - paragraph-heavy explanations;
 - repeated praise without showing a play;
 - labels such as “推荐 Skill” or “玩法提案”.
+- repeating the same opening, cadence, or closing question across recent issues.
 
 ## Default 6–8 page arc
 
