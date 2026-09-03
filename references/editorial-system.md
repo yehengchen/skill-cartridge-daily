@@ -60,11 +60,56 @@ Do not claim hands-on testing unless it actually happened in the named environme
 
 The reader is tired and scrolling for relief. Make the post feel like finding a clever toy, not receiving homework.
 
-Prefer:
+### Write from a moment, not a summary
+
+Open on something the reader can picture: a half-written brief, twelve unnamed screenshots, a folder called “final-final-2”, or the moment an AI answers the wrong question very confidently. Then show what the Skill does to that exact thing. Do not lead with a definition, market category, or “今天给大家推荐”.
+
+Prefer everyday verbs such as “丢进去”, “拽出来”, “顺手改掉”, “卡住”, “跑一遍”, and “先放着”. Use technical nouns only where they help the reader act. A beginner does not need every term explained; give just enough context to follow the play.
+
+Good:
 
 - “我把一个想法丢进去，它先反问到我没法糊弄自己。”
 - “五分钟玩法：拿你拖了最久的那个需求试一次。”
 - “适合：脑子里有东西，但一打开空白文档就想逃的人。”
+
+Too polished:
+
+- “它不仅能够发现问题，更能帮助你明确目标。”
+- “听起来像是在增加工作量，其实是在帮你节省时间。”
+- “从灵感到执行，只需简单三步。”
+
+More human:
+
+- “本来只想让它帮我润色，结果第一句就问：这到底写给谁？”
+- “多问了两分钟。后面那半小时废话省了。”
+- “先丢一段进去。它问到哪，你就答到哪。烦了就停。”
+
+### Break the AI rhythm
+
+- Mix very short sentences with one fuller sentence. Do not give every paragraph the same cadence.
+- Do not automatically organize everything into three points. Use two, four, or no list when that is more natural.
+- Use “不是 A，而是 B” or “听起来……其实……” at most once in an entire issue, preferably not at all.
+- Avoid symmetrical slogans, stacked rhetorical questions, excessive quotation marks, and a punchline at the end of every paragraph.
+- One small joke or aside is enough. Do not perform friendliness with constant exclamation marks, internet slang, or forced memes.
+- Do not repeat the Skill name when “它” or the concrete action is already clear.
+- Let the result carry the praise. Replace “强大、惊艳、高效、宝藏” with what changed on screen or in the file.
+
+### Stay honest
+
+First-person language is allowed only for something actually run or inspected in the current workflow. Otherwise use a neutral concrete construction: “把这段丢进去，会先得到……” or attribute the example to its upstream source. Never manufacture hesitation, surprise, or personal preference to simulate a human reviewer.
+
+### Human-voice pass
+
+Read the complete carousel and caption aloud once before layout. Rewrite until all answers below are “no”:
+
+1. Could this sentence describe almost any AI tool?
+2. Does the paragraph sound like a product launch, tutorial introduction, or meeting summary?
+3. Are two neighboring sentences suspiciously equal in length or structure?
+4. Did an abstract benefit replace a visible input, action, or result?
+5. Is the copy explaining something the picture already makes obvious?
+6. Is the closing question obviously written only to farm comments?
+
+After that pass, check one positive test: could a real person comfortably send the caption to a friend without editing the tone?
 
 Avoid:
 

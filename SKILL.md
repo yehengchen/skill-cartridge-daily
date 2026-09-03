@@ -50,11 +50,15 @@ Every post that recommends a specific Skill, tool, framework, or GitHub project 
 
 Write Chinese like a sharp friend sharing a small discovery after work:
 
-- short spoken sentences and concrete verbs;
+- short spoken sentences, concrete nouns, and verbs people use in conversation;
 - one idea per page;
 - humor from the actual function, not memes pasted on top;
 - enough detail to try it immediately;
 - no corporate tutorial voice, inflated claims, fake personal experience, or generic AI filler.
+
+Do not make every sentence polished, balanced, or complete. Natural fragments, uneven sentence lengths, and one restrained aside are welcome when they sound better aloud. Avoid repeated AI-shaped constructions such as “不是 A，而是 B”, “听起来……其实……”, “只需三步”, “一键解锁”, “值得收藏”, and tidy three-part parallel lists. Never start from a definition when a concrete moment can start the story.
+
+Before laying out the carousel, perform the human-voice pass in [references/editorial-system.md](references/editorial-system.md). Delete any sentence that could be pasted unchanged onto ten other AI tools. Replace abstractions with one visible action, object, input, or reaction. Preserve accurate technical names and commands, but explain them in ordinary Chinese around the code.
 
 Do not title the recurring sections “推荐 Skill”, “玩法提案”, or other stiff labels. Name each page for the story being told.
 
