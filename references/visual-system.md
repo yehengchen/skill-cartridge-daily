@@ -59,6 +59,19 @@ Never use generated lettering as final copy. Add all title, installation, prompt
 - Installation pages may be denser, but separate each platform visibly.
 - Use real examples or clearly illustrative scenes; never place an error or unfinished-state card in the public sequence.
 
+## Function clarity gate
+
+Every recommendation issue must contain at least one page that makes the complete behavior visible as `真实输入 → Skill 动作 → 可见输出`. A reader should not need the caption to understand what changed.
+
+Design this page in two reading layers:
+
+- beginner layer: one large input, one plain-language action, and one visible result that can be understood in one second;
+- technical layer: the actual prompt, output structure, useful parameter, export format, or operational boundary in smaller supporting copy.
+
+Use authentic results whenever the issue claims a Codex test. If a full screenshot becomes unreadable at `270 × 360`, crop a real functional region and keep the original artifact as internal evidence. Never rebuild it as fake UI. Generated artwork may explain a metaphor or payoff, but it cannot replace the real result or the functional explanation.
+
+When space is tight, remove secondary labels and decorative copy before shrinking the core input, action, or output. The functional page fails review if the Skill name is clear but its behavior is not.
+
 ## Detailed final card
 
 Every recommendation carousel ends with the same recognizable cassette release card on warm paper. Preserve this visual grammar across issues:
