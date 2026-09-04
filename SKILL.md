@@ -7,6 +7,12 @@ description: Create or revise a dated, ready-to-publish Xiaohongshu carousel abo
 
 Produce one light, playful Xiaohongshu post that tired people can understand and try without feeling they have opened another work tutorial. The post should still reward technical readers with accurate sources and install details.
 
+## Keep a continuous daily queue
+
+Publish one note for every calendar date in Asia/Shanghai, including weekends. The dated calendar must be continuous: no skipped dates, empty fallback days, or workday-only cadence. Lighter weekend topics are welcome, but they still need a finished carousel and caption rather than a placeholder.
+
+A newly released major model may take the current date when it has a dated first-party announcement and a clear reader-facing change. Treat this as a queue insertion: move every displaced note forward while preserving its relative order and files. Never replace, delete, or silently drop an existing note. After any insertion or reschedule, check that every date in the active calendar has exactly one delivery.
+
 ## Start with one compact interaction
 
 If the user already named a topic, do not ask them to choose it again. Otherwise, research current web/social recommendations and GitHub weekly momentum. During the account launch phase, prioritize approachable Skills that help Xiaohongshu creators make, style, organize, or remix content: design, imagery, video, writing, playful utilities, and other visible five-minute wins. Aim the voice and examples primarily at women creators and beginners without resorting to gender stereotypes or default pink styling. Limit programmer-only topics to roughly one issue per week. Among candidates that pass this audience and fun filter, prioritize one-week momentum over lifetime totals. Offer exactly three short candidates. For each candidate, state the fun payoff in one sentence; keep research notes private.
